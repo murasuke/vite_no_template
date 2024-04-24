@@ -1,4 +1,4 @@
-# テンプレートを利用せずviteでVanilla JS環境を作成する
+# viteでテンプレートを利用せずにVanilla JS環境を作成する
 
 ## はじめに
 
@@ -17,7 +17,7 @@ Done. Now run:
 
 ただちょっとしたサンプルには不要なファイルも多いので、テンプレートを利用せずクリーンな環境を作成してみます
 
-* ※参考：--template vanilla で作成したファイル一覧
+* --template vanilla で作成したファイル一覧
 
   ![alt text](./image-2.png)
 
