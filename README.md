@@ -49,7 +49,7 @@ EOF
 
 ### index.htmlの作成
 
-`main.js`は絶対パスで読み込むと、viteが割り込み変換処理をしてくれる
+`main.js`は絶対パスにする。Viteが変換処理(npmライブラリを読み込ん)をしてくれるのでブラウザで実行できる
 
 ```bash
 $ cat <<EOF > index.html
